@@ -94,7 +94,7 @@
          &kp LSHFT  &kp SPACE &kp L      &kp ENTER &kp SPACE &to 0
                         >;
 
-               
+                  };
                };
 
 };
