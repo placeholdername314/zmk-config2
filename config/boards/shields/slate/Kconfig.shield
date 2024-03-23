@@ -1,0 +1,9 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+config SHIELD_SLATE_LEFT
+	def_bool $(shields_list_contains,slate_left)
+
+config SHIELD_SLATE_RIGHT
+	def_bool $(shields_list_contains,slate_right)
+  
