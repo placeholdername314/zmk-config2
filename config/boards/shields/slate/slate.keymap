@@ -69,8 +69,8 @@
 
                         bindings = <
    &none &none &none &none &none  &kp RA(RC(N1)) &kp RA(RC(N2)) &kp RA(RC(N3)) &kp RA(RC(N4)) &kp RA(RC(N5)) 
-   &to 5 &none &none &none &none  &kp RA(RC(N6)) &kp RA(RC(N7)) &kp RA(RC(N8)) &kp RA(RC(N9)) &kp RA(RC(N10)) 
-  &to 4 &none &none &none &trans  &kp RA(RC(N11)) &kp RA(RC(N12)) &kp RA(RC(N13)) &kp RA(RC(N14)) &kp RA(RC(N15))    
+   &to 5 &none &none &none &none  &kp RA(RC(N6)) &kp RA(RC(N7)) &kp RA(RC(N8)) &kp RA(RC(N9)) &trans 
+  &to 4 &none &none &none &trans  &trans &trans &trans &trans &trans   
                  &to 1 &trans &to 0        &to 0 &trans &to 2 
                         >;
                };       
