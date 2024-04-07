@@ -40,7 +40,7 @@
                         bindings = <
    &mt ESC SEMI &kp L &kp C &kp M &kp K   &kp J &kp F  &kp U     &kp Y   &mt LA(TAB) Q
    &kp A &kp R &kp S &kp T &kp G        &kp P &kp N  &kp E     &kp I   &kp O
-   &kp Z &kp X &kp W &kp D &kp V        &kp B &kp H  &kp COMMA &mt FSLH DOT &mt LSHFT LG(LS(S))
+   &mt END Z &kp X &kp W &kp D &kp V        &kp B &kp H  &kp COMMA &mt FSLH DOT &mt LSHFT LG(LS(S))
          &to 1  &kp BSPC &kp LCTRL      &kp ENTER &kp SPACE &to 2
                         >;
                 };
